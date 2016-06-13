@@ -24,7 +24,7 @@ import java.io.IOException;
 
 public class LocalStorageProvider extends DocumentsProvider {
 
-    public static final String AUTHORITY = "com.crypho.localstorage.documents";
+    public static final String AUTHORITY = "com.gerapp.localstorage.documents";
 
     /**
      * Default root projection: everything but Root.COLUMN_MIME_TYPES
