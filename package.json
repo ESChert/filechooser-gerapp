@@ -1,0 +1,26 @@
+{
+  "name": "cordova-filechooser",
+  "version": "1.0.0",
+  "description": "Cordova to select and add items from my files",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESChert/filechooser-gerapp.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "app",
+    "filechooser",
+    "appfilechooser",
+    "plugin"
+  ],
+  "author": "sergiowalls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiowalls/filechooser-bynapp/issues"
+  },
+  "homepage": "https://github.com/ESChert/filechooser-gerapp#readme"
+}
